@@ -1,44 +1,0 @@
-Script started on 2024-03-10 17:04:39+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
-To run a command as administrator (user "root"), use "sudo <command>".
-See "man sudo_root" for details.
-
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ echo 'hi''[K
-[?2004lhi
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ ls
-[?2004l[0m[01;34m'New Folder 1'[0m   tracker.sh   typescript
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ ls
-[?2004l[0m[01;34m'New Folder 1'[0m   tracker.sh   typescript
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ ls
-[?2004l[0m[01;34m'New Folder 1'[0m   tracker.sh   typescript
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ ls
-[?2004l[0m[01;34m'New Folder 1'[0m   tracker.sh   typescript
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ echo 'hi'
-[?2004lhi
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ echo 'hi'
-[?2004lhi
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ echo 'halo'
-[?2004lhalo
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ open tt[Kype[K[K[K[K[K[K[K[K[Kexit
-[?2004lexit
-
-Script done on 2024-03-10 17:05:10+05:30 [COMMAND_EXIT_CODE="0"]
-Script started on 2024-03-10 17:07:31+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
-To run a command as administrator (user "root"), use "sudo <command>".
-See "man sudo_root" for details.
-
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ echo 'hi'
-[?2004lhi
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ echo 'hi'
-[?2004lhi
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ ls
-[?2004l[0m[01;34m'New Folder 1'[0m   tracker.sh   typescript
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ ls
-[?2004l[0m[01;34m'New Folder 1'[0m   tracker.sh   typescript
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ echo 'hi'
-[?2004lhi
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ ls
-[?2004l[0m[01;34m'New Folder 1'[0m   tracker.sh   typescript
-[?2004h]0;sride@learning: ~/Desktop[01;32msride@learning[00m:[01;34m~/Desktop[00m$ exit
-[?2004lexit
-
-Script done on 2024-03-10 17:07:42+05:30 [COMMAND_EXIT_CODE="0"]
