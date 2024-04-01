@@ -1,6 +1,5 @@
-      7 ls
-      5 echo 'hi'
-      1 open tt
+      3 ls
+      2 open
+      2 echo
+      1 touch
       1 exit
-      1 echo 'hi''
-      1 echo 'halo'
